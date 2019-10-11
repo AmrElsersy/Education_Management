@@ -1,0 +1,16 @@
+Doctor 5555 5555 Basem@yahoo.com Basem Programming Prog_Announcment OOP ObjectOreinted_Announcment
+Doctor 6666 6666 Hazem@yahoo.com Hazem DataStrucutre DataAnnouncment Algorithm AlgoAnnouncment
+Doctor 7777 7777 Wael@yahoo.com Wael Electronics ElectroAnnouncment Physics PhysicsAnnouncment
+Student 1111 1111 Amr@yahoo.com AmrElsersy Programming OOP DataStrucutre
+Student 2222 2222 Maged@yahoo.com Maged Physics OOP DataStrucutre
+Student 3333 3333 Fares@yahoo.com Fares Physics DataStrucutre Programming
+Student 4444 4444 Mekawy@yahoo.com Mekawy Electronics Physics Algorithm
+Student_Discussion 1111 1111 Programming this_is_ProgramingPost
+Student_Discussion 1111 1111 Programming this_is_ProgramingPost2222
+Student_Discussion 1111 1111 DataStrucutre i_likeBinaryTree
+Student_Discussion 2222 2222 DataStrucutre LinkedListQueueStaks
+Student_Discussion 2222 2222 OOP classes_and_objects
+Student_Discussion 3333 3333 Physics QuantumMechanics
+Student_Discussion 4444 4444 Algorithm Sorrrting_Searching
+Student_Discussion 4444 4444 Electronics ELectroooooooo
+Student_Discussion 4444 4444 Physics Phyisooooooo0
